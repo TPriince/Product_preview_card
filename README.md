@@ -42,7 +42,6 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@TPriince](https://www.frontendmentor.io/profile/TPriince)
 - Twitter - [@T_Priincee](https://www.twitter.com/T_Priincee)
 
