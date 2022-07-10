@@ -1,2 +1,2 @@
-# Product_preview_card
+# Product preview card component
 Frontend Mentor - Product preview card component challenge
