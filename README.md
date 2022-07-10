@@ -24,7 +24,7 @@ Users should be able to:
 ### Screenshot
 
 ![](./screenshot.jpg)
-<img src="https://drive.google.com/uc?export=view&id=13jQRXh7q9JEXBBaXmGFa-QMB6A3zRNY3" alt="product preview card component" />
+<img src="https://drive.google.com/uc?export=view&id=1UuzDakosVXjza0ek14Zc7qlJUev-yDEi" alt="product preview card component" />
 
 ### Links
 
