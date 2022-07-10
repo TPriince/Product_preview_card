@@ -85,6 +85,7 @@ h1 {
 .price2 {
     font-family: var(--p-font);
     font-size: small;
+    color: hsl(228, 12%, 48%);
 }
 
 .cart {
